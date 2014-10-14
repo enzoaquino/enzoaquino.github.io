@@ -3,7 +3,7 @@ title: Titles are overrated
 email: enzo.aquino@gmail.com
 author: Enzo Aquino
 description: "Random thoughts"
-baseurl: "blog.enzoaquino.com" 
+baseurl: "" 
 url: "blog.enzoaquino.com" 
 google_analytics:
 animated: false
